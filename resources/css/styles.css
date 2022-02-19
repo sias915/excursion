@@ -5,3 +5,9 @@ body {
     text-align: center;
 }
 
+.header-main {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+}
