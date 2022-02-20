@@ -28,3 +28,17 @@ p {
     color: gray;
     font-size: 21px;
 }
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
+.campground {
+    position: relative;
+}
+
+.icon {
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+}
