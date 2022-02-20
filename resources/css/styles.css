@@ -16,3 +16,15 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
